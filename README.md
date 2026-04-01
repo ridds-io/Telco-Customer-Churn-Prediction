@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction — Kaggle Playground Series S6E3
+# Telco Customer Churn Prediction  [Kaggle Playground Series S6E3]
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![XGBoost](https://img.shields.io/badge/XGBoost-✓-green) ![PyTorch](https://img.shields.io/badge/PyTorch-GNN-orange)
 
